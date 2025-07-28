@@ -1,4 +1,4 @@
-# 🛒 Olist E-Commerce Sales Analysis using SQL | 9 Business Insights | Real-World Dataset
+# 🛒 Olist E-Commerce Sales Analysis using SQL | Business Insights | Real-World Dataset
 
 This project is a comprehensive SQL-based analysis of the Olist dataset, a real-world Brazilian e-commerce platform. The goal is to extract business insights such as top-selling products, monthly revenue trends, payment methods, and customer behavior.
 
