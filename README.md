@@ -41,7 +41,7 @@ The dataset contains multiple relational tables:
 
 All the SQL queries are organized in one file with comments:
 
-🗂 Ecommerce-Analysis.sql
+🗂 olist_ecommerce_analysis.sql
 
 ---
 
